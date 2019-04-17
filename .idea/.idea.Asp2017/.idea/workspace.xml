@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="310c1f50-a798-4205-986a-a817b434018c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.dockerignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.override.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/Controllers/AuthController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <marker date="1555264821975" expanded="false" signature="6:104" ph="..." />
+                <marker date="1555264821975" expanded="true" signature="142:541" ph="{...}" />
+                <marker date="1555264821975" expanded="true" signature="189:539" ph="{...}" />
+                <marker date="1555264821975" expanded="true" signature="275:533" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="114" column="31" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+              <folding>
+                <marker date="1555518841683" expanded="false" signature="6:456" ph="..." />
+                <marker date="1555518841683" expanded="true" signature="494:4772" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="541:4770" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="805:857" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="947:1407" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="1193:1297" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="1409:2164" ph="/* [HttpGet(&quot;~/GetImage&quot;)] ... */" />
+                <marker date="1555518841683" expanded="true" signature="2264:3315" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="2485:2589" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="2731:3257" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="2879:2975" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="3442:4709" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="3659:3768" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="3891:4106" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="3951:4055" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="4180:4281" ph="{...}" />
+                <marker date="1555518841683" expanded="true" signature="4502:4657" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/1e/3628632c/FileStream.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="1556" column="7" selection-start-line="1556" selection-start-column="7" selection-end-line="1556" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/Service/TokenHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding>
+                <marker date="1555518106889" expanded="true" signature="57:261" ph="{...}" />
+                <marker date="1555518106889" expanded="true" signature="95:259" ph="{...}" />
+                <marker date="1555518106889" expanded="true" signature="141:253" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <marker date="1555518562215" expanded="false" signature="6:212" ph="..." />
+                <marker date="1555518562215" expanded="true" signature="237:1965" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="264:1963" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="323:386" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="508:1092" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="562:692" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="708:817" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="833:1049" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="1280:1957" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="1327:1404" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="1421:1505" ph="{...}" />
+                <marker date="1555518562215" expanded="true" signature="1611:1945" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/560D56F8-376D-4258-A59A-D5478913C777/5f/1bcc1935/PathString.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app.module.browser</find>
+      <find>app-root</find>
+      <find>boot</find>
+      <find>sharedconfig</find>
+      <find>sharedConfig</find>
+      <find>serverBundleConfig</find>
+      <find>main-client</find>
+      <find>bootstr</find>
+      <find>sourcemap</find>
+      <find>http</find>
+      <find>boots</find>
+      <find>ht</find>
+      <find>entry</find>
+      <find>preview</find>
+      <find>user-detail</find>
+      <find>TranslateService</find>
+      <find>trans</find>
+      <find>router</find>
+      <find>css-</find>
+      <find>css-loader</find>
+      <find>css-loae</find>
+      <find>web</find>
+      <find>temp</find>
+      <find>UseWebpackHotReload</find>
+      <find>ph</find>
+      <find>UseWebpack</find>
+      <find>webpa</find>
+      <find>aspnetcore_url</find>
+      <find>entryp</find>
+      <find>app</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/560D56F8-376D-4258-A59A-D5478913C777/5f/1bcc1935/PathString.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B47B422-BC4C-4615-BBDE-BE1DF9B21B0D/50/24a65e8e/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7409566B-CE0C-4D4C-BCE6-657A1C69859C/60/b8a973f3/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D809B0C2-DCF2-4DBF-99E5-25683626238B/87/c6029a1c/ExceptionHandlerExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/1e/3628632c/FileStream.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3ED237D-7C92-492C-B3EC-F0A252EE3A7D/43/9e83090b/Link.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/Service/TokenHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/d4/4125e267/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/1f/61193c28/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Server/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/boot.browser.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/Services/YandexDiskService.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/preview-pane/preview-pane.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/preview-record.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/preview-pane/preview-pane.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/detail-view/detail-view.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/detail-view/detail-view.component.html" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/webpack.config.vendor.js" />
+        <option value="$PROJECT_DIR$/ClientApp/app/Services/data-provider.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/shared/user.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/preview-tile/preview-tile.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/preview-tile/preview-tile.component.ts" />
+        <option value="$PROJECT_DIR$/Server/Service/TokenHelper.cs" />
+        <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/Server/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/.dockerignore" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.override.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Server" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Server" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Server" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="docker-compose" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asp2017" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="docker-compose" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="docker-compose.yml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="editorconfig.notification" value="utf-8-bom" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\src\AngularUniversalGallery\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Release/netcoreapp2.1/Asp2017.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_URLS" value="http://localhost:5001" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Asp2017.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5001" name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310c1f50-a798-4205-986a-a817b434018c" name="Default Changelist" comment="" />
+      <created>1555261665026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555261665026</updated>
+      <workItem from="1555261666688" duration="313000" />
+      <workItem from="1555262382894" duration="7902000" />
+      <workItem from="1555421594692" duration="23235000" />
+      <workItem from="1555508959536" duration="12749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44199000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69129914" visible="true" weight="0.15937997" />
+      <window_info id="Structure" order="1" sideWeight="0.30870083" side_tool="true" weight="0.15739268" />
+      <window_info id="Favorites" order="2" sideWeight="0.5147864" side_tool="true" weight="0.18879174" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="npm" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48251194" weight="0.2954014" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4944356" weight="0.3281372" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.9292528" weight="0.3460639" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4972178" weight="0.3289166" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49761525" weight="0.3281372" />
+      <window_info anchor="bottom" id="Stacktrace" order="8" sideWeight="0.49960256" weight="0.32917318" />
+      <window_info anchor="bottom" id="Docker" order="9" sideWeight="0.49841017" weight="0.55728763" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.49880764" weight="0.3289166" />
+      <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.49920508" weight="0.3289166" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.48449922" visible="true" weight="0.3289166" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4280604" weight="0.30007794" />
+      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="15" sideWeight="0.6104928" type="SLIDING" weight="0.38035855" />
+      <window_info anchor="bottom" id="TypeScript" order="16" sideWeight="0.46939588" weight="0.21590023" />
+      <window_info anchor="bottom" id="Change Signature" order="17" sideWeight="0.50039744" side_tool="true" weight="0.32942098" />
+      <window_info anchor="bottom" id="Event Log" order="18" sideWeight="0.50158983" side_tool="true" weight="0.55728763" />
+      <window_info anchor="bottom" id="Errors In Solution" order="19" sideWeight="0.4972178" weight="0.3289166" />
+      <window_info anchor="bottom" id="Performance Profiler" order="20" sideWeight="0.49920508" weight="0.32969603" />
+      <window_info anchor="right" id="Database" order="0" weight="0.15302067" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" weight="0.15421304" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69129914" visible="true" weight="0.15739268" />
+      <window_info id="Structure" order="1" sideWeight="0.30870083" side_tool="true" visible="true" weight="0.15739268" />
+      <window_info id="Favorites" order="2" sideWeight="0.5147864" side_tool="true" weight="0.18879174" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="npm" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48251194" weight="0.2954014" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4944356" weight="0.3281372" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.9292528" visible="true" weight="0.3460639" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4972178" weight="0.3289166" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49761525" weight="0.3281372" />
+      <window_info anchor="bottom" id="Stacktrace" order="8" sideWeight="0.49960256" weight="0.32917318" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.49880764" weight="0.32917318" />
+      <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.49920508" weight="0.32917318" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.84300476" weight="0.3289166" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.42845786" weight="0.30007794" />
+      <window_info anchor="bottom" auto_hide="true" id="Version Control" order="15" sideWeight="0.6104928" type="SLIDING" weight="0.38035855" />
+      <window_info anchor="bottom" id="TypeScript" order="16" sideWeight="0.46939588" weight="0.21590023" />
+      <window_info anchor="bottom" id="Change Signature" order="17" sideWeight="0.50039744" side_tool="true" weight="0.32942098" />
+      <window_info anchor="bottom" id="Event Log" order="18" sideWeight="0.07074722" side_tool="true" visible="true" weight="0.3460639" />
+      <window_info anchor="bottom" id="Errors In Solution" order="19" sideWeight="0.4972178" weight="0.3289166" />
+      <window_info anchor="bottom" id="Performance Profiler" order="20" sideWeight="0.49920508" weight="0.32969603" />
+      <window_info anchor="right" id="Database" order="0" weight="0.15302067" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" visible="true" weight="0.15421304" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ClientApp/app/app.module.ts</url>
+          <line>41</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Server/Controllers/HomeController.cs</url>
+          <line>35</line>
+          <properties documentPath="$PROJECT_DIR$/Server/Controllers/HomeController.cs" initialLine="35">
+            <startOffsets>
+              <option value="1046" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1088" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="DotNet Exception Breakpoints">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="rootResource.Embedded.Items.First().Preview" language="C#" custom="RiderImportsList:" />
+        <watch expression="rootResource" language="C#" custom="RiderImportsList:" />
+        <watch expression="tasks.First().Result" language="C#" custom="RiderImportsList:" />
+        <watch expression="diskApi.Files.DownloadAsync()" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>tasks.First().Result</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>diskApi.Files.DownloadAsync()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rootResource</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rootResource.Embedded.Items.First().Preview</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.module.server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/boot.server.PRODUCTION.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="386" column="125" selection-start-line="386" selection-start-column="125" selection-end-line="386" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/1f/61193c28/Task`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="226" column="40" selection-start-line="226" selection-start-column="40" selection-end-line="226" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/boot.browser.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3ED237D-7C92-492C-B3EC-F0A252EE3A7D/43/9e83090b/Link.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7409566B-CE0C-4D4C-BCE6-657A1C69859C/60/b8a973f3/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="2894" column="6" selection-start-line="2894" selection-start-column="6" selection-end-line="2894" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-pane/preview-pane.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/Services/YandexDiskService.ts" />
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-pane/preview-pane.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/preview-record.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-pane/preview-pane.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/containers/home/home.component.ts" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/d4/4125e267/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#521#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-pane/preview-pane.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/detail-view/detail-view.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/detail-view/detail-view.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="94" selection-start-column="94" selection-end-column="94" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/angular2-seo.png" />
+    <entry file="file://$PROJECT_DIR$/docs/architecture.png" />
+    <entry file="file://$PROJECT_DIR$/Server/Data/DbInitializer.cs" />
+    <entry file="file://$PROJECT_DIR$/wwwroot/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/images/icon144x144.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/images/icon192x192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/images/icon256x256.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/images/icon48x48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1555503970099" expanded="true" signature="6:199" ph="..." />
+            <marker date="1555503970099" expanded="true" signature="221:473" ph="{...}" />
+            <marker date="1555503970099" expanded="true" signature="266:312" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.vendor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/shared/link.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/shared/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-tile/preview-tile.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-tile/preview-tile.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-tile/preview-tile.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/preview-tile/preview-tile.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/Services/data-provider.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1555518198001" expanded="true" signature="91:187" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/592CADF0-4602-4F03-8A2A-CF890A55A632/1e/3628632c/FileStream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="1556" column="7" selection-start-line="1556" selection-start-column="7" selection-end-line="1556" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/560D56F8-376D-4258-A59A-D5478913C777/5f/1bcc1935/PathString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/Controllers/AuthController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <marker date="1555264821975" expanded="false" signature="6:104" ph="..." />
+            <marker date="1555264821975" expanded="true" signature="142:541" ph="{...}" />
+            <marker date="1555264821975" expanded="true" signature="189:539" ph="{...}" />
+            <marker date="1555264821975" expanded="true" signature="275:533" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/Service/TokenHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1555518106889" expanded="true" signature="57:261" ph="{...}" />
+            <marker date="1555518106889" expanded="true" signature="95:259" ph="{...}" />
+            <marker date="1555518106889" expanded="true" signature="141:253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="114" column="31" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+          <folding>
+            <marker date="1555518841683" expanded="false" signature="6:456" ph="..." />
+            <marker date="1555518841683" expanded="true" signature="494:4772" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="541:4770" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="805:857" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="947:1407" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="1193:1297" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="1409:2164" ph="/* [HttpGet(&quot;~/GetImage&quot;)] ... */" />
+            <marker date="1555518841683" expanded="true" signature="2264:3315" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="2485:2589" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="2731:3257" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="2879:2975" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="3442:4709" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="3659:3768" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="3891:4106" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="3951:4055" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="4180:4281" ph="{...}" />
+            <marker date="1555518841683" expanded="true" signature="4502:4657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.override.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <marker date="1555518562215" expanded="false" signature="6:212" ph="..." />
+            <marker date="1555518562215" expanded="true" signature="237:1965" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="264:1963" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="323:386" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="508:1092" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="562:692" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="708:817" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="833:1049" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="1280:1957" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="1327:1404" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="1421:1505" ph="{...}" />
+            <marker date="1555518562215" expanded="true" signature="1611:1945" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<div style="flex-direction: unset;background: none;width: 600px;background-color: antiquewhite">
+    <div style="display: block">
+        <img [src]="Image" style="width: 100%" alt="">
+    </div>
+    <div style="width: 100%;display: block">
+        <div style="display: inline-block;">
+            <button type="button" (click)="clickPrev()"> Prev</button>
+        </div>
+        <div style="display: inline-block;float: right">
+            <button (click)="clickNext()" type="button"> Next</button>
+        </div>
+    </div>
+</div>
